@@ -11,15 +11,15 @@ a{
     color: aliceblue;
 }
 
-a:visited{
+a:visited {
     color: lightgray;
 }
 
-a:hover:active{
+a:hover:active {
     color: #eee;
 }
 
-table, tr, th, td, caption{
+table, tr, th, td, caption {
     border: 1px solid#eee;
     font-family: 'Courier New', Courier, monospace;
     border-collapse: collapse;
@@ -33,15 +33,15 @@ table, tr, th, td, caption{
 
 
 
- {
+ /* {
 
 
-    /* color: black; */
-    /* background-color: blue; */
-    /* border-width: 20px; */
-    /* border-style: solid; */
-    /* border-color: green; */
-    /* padding: 50px 40px 30px 20px; */
-}
+    color: black;
+    background-color: blue;
+    border-width: 20px;
+    border-style: solid;
+    border-color: green;
+    padding: 50px 40px 30px 20px;
+} */
 
 
